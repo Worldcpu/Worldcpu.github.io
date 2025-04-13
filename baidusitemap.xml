@@ -1,19 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://worldcpu.github.io/posts/34afe2f1.html</loc>
-    <lastmod>2025-04-13</lastmod>
-  </url>
-  <url>
     <loc>https://worldcpu.github.io/posts/f36e10f6.html</loc>
     <lastmod>2025-04-13</lastmod>
   </url>
   <url>
     <loc>https://worldcpu.github.io/posts/e28fd031.html</loc>
-    <lastmod>2025-04-13</lastmod>
-  </url>
-  <url>
-    <loc>https://worldcpu.github.io/posts/d87cf644.html</loc>
     <lastmod>2025-04-13</lastmod>
   </url>
   <url>
@@ -45,6 +37,10 @@
     <lastmod>2025-04-13</lastmod>
   </url>
   <url>
+    <loc>https://worldcpu.github.io/posts/34afe2f1.html</loc>
+    <lastmod>2025-04-13</lastmod>
+  </url>
+  <url>
     <loc>https://worldcpu.github.io/posts/7e84078f.html</loc>
     <lastmod>2025-04-13</lastmod>
   </url>
@@ -66,6 +62,10 @@
   </url>
   <url>
     <loc>https://worldcpu.github.io/posts/64da72f3.html</loc>
+    <lastmod>2025-04-13</lastmod>
+  </url>
+  <url>
+    <loc>https://worldcpu.github.io/posts/d87cf644.html</loc>
     <lastmod>2025-04-13</lastmod>
   </url>
 </urlset> 
